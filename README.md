@@ -31,4 +31,4 @@
 #
 
 # Deployed link:
-# https://epicdueler.herokuapp.com/
+# https://blooming-gorge-61299.herokuapp.com/
